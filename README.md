@@ -1,10 +1,10 @@
-# autheos-challenge
+# Autheos Challenge
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure example challenge for Autheos
 
 ## Usage
 
-FIXME
+Code in src/autheos_challenge/core.clj
 
 ## License
 
